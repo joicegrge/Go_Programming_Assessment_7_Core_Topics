@@ -36,6 +36,15 @@ Check for data races in Topic 6:
 go run -race ./topic6
 ```
 
+<img width="1151" height="197" alt="WhatsApp Image 2026-11-17 at 2 21 15 PM" src="https://github.com/user-attachments/assets/5d1c501b-bf57-4997-8cdf-6ce57162f858" />
+<img width="1236" height="180" alt="WhatsApp Image 2026-11-17 at 2 21 31 PM" src="https://github.com/user-attachments/assets/7685ba90-2d83-492c-ad17-d708fb7ded6f" />
+<img width="1182" height="93" alt="WhatsApp Image 2026-11-17 at 2 21 47 PM" src="https://github.com/user-attachments/assets/09522013-618c-4962-9c61-6407995803a6" />
+<img width="1182" height="135" alt="WhatsApp Image 2026-11-17 at 2 22 06 PM" src="https://github.com/user-attachments/assets/e4cdf237-edf7-416f-a264-7aa5e4710432" />
+<img width="1198" height="220" alt="WhatsApp Image 2026-11-17 at 2 22 42 PM" src="https://github.com/user-attachments/assets/37e7bc38-579d-439d-849f-b8f8802e8783" />
+<img width="1132" height="176" alt="WhatsApp Image 2026-11-17 at 2 23 04 PM" src="https://github.com/user-attachments/assets/7f09a16a-b2ff-4b26-b96f-57a56056ff9e" />
+<img width="1181" height="157" alt="WhatsApp Image 2026-11-17 at 2 23 19 PM" src="https://github.com/user-attachments/assets/388f56cf-f2f0-4c8e-a291-974aaa85fa55" />
+
+
 ## Topic guide
 1. **Structs, methods and pointers:** enter account holder, opening balance, deposit and withdrawal amounts.
 2. **Interfaces and polymorphism:** enter a notification message and the email/phone destinations. Notifications are simulated in the terminal; no real email or SMS is sent.
